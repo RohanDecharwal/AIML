@@ -1,8 +1,8 @@
-# 🤖 AI & Machine Learning Assignments
+# 🤖 Artificial Intelligence & Machine Learning
 
 <div align="center">
 
-# AI & Machine Learning Projects Repository
+# Artificial Intelligence & Machine Learning Projects Repository
 
 A collection of projects and assignments completed during the **AI & ML Internship (MPONLINE)**.
 
@@ -44,16 +44,16 @@ Each project resides in its own directory with source code, Jupyter notebooks, d
 # 📂 Repository Structure
 
 ```text
-AI-ML-Assignments/
+AIML/
 │
-├── Assignment-1/
-├── Assignment-2/
-├── Assignment-3/
-├── Assignment-4/
-├── Assignment-5/
-├── Assignment-6/
-├── Assignment-7/
-├── Assignment-8/
+├── Adult_Census_Income_Classification/
+├── CIFAR_10/
+├── Cancer_Classfication/
+├── Car_Price_Prediction/
+├── Cartpole/
+├── LFW_Face_Recognition/
+├── Lunar_Lander/
+├── Movie_Recommendation_System/
 ├── .gitignore
 └── README.md
 ```
