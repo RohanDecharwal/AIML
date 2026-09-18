@@ -22,9 +22,9 @@ A collection of projects completed during the **AI & ML Internship (MPONLINE)**.
 
 ## 📖 About
 
-This repository contains all the assignments and projects completed as part of the **AI & ML Internship (MPONLINE)**. Each project demonstrates the practical implementation of Artificial Intelligence and Machine Learning concepts using modern tools, algorithms, and frameworks.
+This repository contains all the projects completed as part of the **AI & ML Internship (MPONLINE)**. Each project demonstrates the practical implementation of Artificial Intelligence and Machine Learning concepts using modern tools, algorithms, and frameworks.
 
-The assignments cover a wide range of AI and Machine Learning topics, including:
+The projects cover a wide range of AI and Machine Learning topics, including:
 
 - Machine Learning
 - Deep Learning
