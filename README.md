@@ -151,19 +151,19 @@ Through these assignments, I gained practical experience in:
 Clone the repository:
 
 ```bash
-git clone https://github.com/RohanDecharwal/AI-ML-Assignments.git
+git clone https://github.com/RohanDecharwal/AIML.git
 ```
 
 Move into the repository:
 
 ```bash
-cd AI-ML-Assignments
+cd AIML
 ```
 
 Navigate to any assignment folder:
 
 ```bash
-cd Assignment-1
+cd Adult_Census_Income_Classification
 ```
 
 Install the required dependencies:
