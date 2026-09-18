@@ -4,7 +4,7 @@
 
 # Artificial Intelligence & Machine Learning Projects Repository
 
-A collection of projects and assignments completed during the **AI & ML Internship (MPONLINE)**.
+A collection of projects completed during the **AI & ML Internship (MPONLINE)**.
 
 **Author:** Rohan Ramdhan Decharwal
 
